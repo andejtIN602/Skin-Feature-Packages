@@ -2,8 +2,8 @@
 
 -- INFO --
 
-This repository contains all feature packages I have developed for Skin 
-Errors can occur if not imported on the version specified in this README. 
+This repository contains all feature packages I have developed for Skin, 
+errors can occur if not imported on the version specified in this README. 
 
 -- UPDATES -- 
 
